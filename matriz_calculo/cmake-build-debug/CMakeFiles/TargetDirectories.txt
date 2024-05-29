@@ -1,0 +1,3 @@
+C:/TI/C++/Aula/Brito/matriz_calculo/cmake-build-debug/CMakeFiles/matriz_calculo.dir
+C:/TI/C++/Aula/Brito/matriz_calculo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/TI/C++/Aula/Brito/matriz_calculo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
